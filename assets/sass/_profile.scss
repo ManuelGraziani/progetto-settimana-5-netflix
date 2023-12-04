@@ -1,0 +1,12 @@
+.student {
+    width: 10em;
+};
+
+::placeholder {
+    color: white;
+};
+
+input[type=checkbox] {
+    accent-color: grey;
+    width: 2em;
+};
